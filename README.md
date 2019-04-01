@@ -1,0 +1,1 @@
+# Load the spark dataframe to HBase and also running the testcase on HBase mini-cluster  
